@@ -10,6 +10,13 @@ CONTACT INFO: EMAIL: kacperzalewski@lewisu.edu | kzalewski433#gmail.com
 Final Project Proposal: https://delightful-sea-079441a10.2.azurestaticapps.net/
 
 
+INSTRUCTIONS:
+
+1. EXTRACT THE FILES.
+
+2. OPEN THE Story.py FILE IN EITHER TERMINAL OR PYTHON.
+
+
 
 Final Project Proposal (In case the link doesn't work)
 
