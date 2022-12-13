@@ -31,4 +31,28 @@ Final Project Proposal (In case the link doesn't work)
     Basic Technical Features (list of technical features being implemented that demonstrates things you have learned in the class): Loads of functions, loops, use of terminal, adding items which can be stored and used later (variables)
     
     Advanced Technical Features (list of technical features being implemented that go beyond what we learned in class): Lack of global functions, "import time", which adds chronology to Python code.
-    
+   
+
+ORIGINALLY PLAN: 
+
+A TheBoys Story will be an interactive story game that can be played in a browser. They can choose what can happen in the story by entering a series of numbers, answering yes or no questions, etc. They can pick up items that might help in their story. 
+
+This application will be composed using Javascript. It will very significantly make use of functions, plus a lot of other very useful Javascript tools. 
+   
+
+   A story with multiple endings
+   A lot of dialogue for the story
+   Accessible through browse
+   Items to collect which might help help with the story or certain actions
+
+
+   A proper UI
+   Images or miniature animations made using GMOD to accompany the game's story
+   More story options
+
+
+CURRENT PLAN:
+
+A TheBoys Story will be an interactive python story game that can be played in a terminal session. They can choose what can happen in the story by picking up useful items and by picking prompts to advance the story. 
+
+
