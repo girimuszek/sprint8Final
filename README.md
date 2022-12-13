@@ -32,6 +32,21 @@ Final Project Proposal (In case the link doesn't work)
     
     Advanced Technical Features (list of technical features being implemented that go beyond what we learned in class): Lack of global functions, "import time", which adds chronology to Python code.
    
+Requirement 2
+
+Implement at least four (4) meaningful features that are of similar complexity to features we delivered in previous applications.
+
+Functions, saving variables for later use, python, loops
+
+
+Requirement 3
+
+Enhance your application so that it implements at least two (2) meaningful features that are greater in complexity than features we delivered in previous applications.
+
+Lack of Global Variables (Which is harder to do, but works better in the long run)
+
+Import Time Function
+
 
 ORIGINALLY PLAN: 
 
@@ -55,4 +70,18 @@ CURRENT PLAN:
 
 A TheBoys Story will be an interactive python story game that can be played in a terminal session. They can choose what can happen in the story by picking up useful items and by picking prompts to advance the story. 
 
+This application will be composed using Python. It will very significantly make use of functions, plus a lot of other very useful Python tools. 
 
+This proposal was last updated on 12-12-2022
+
+A story with multiple endings
+A lot of dialogue for the story
+Text that scrolls instead of being static by using "import time"
+Items to collect which might help help with the story or certain actions, without using global variable
+
+
+THINGS THAT I WOULD ADD IF I HAD THE TIME:
+
+A proper UI
+Images or miniature animations made using GMOD to accompany the game's story
+More story options and lore
